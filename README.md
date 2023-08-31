@@ -1,6 +1,5 @@
-#          <p1 align="center"> Data-analysis-lib.-with-python </p1>
 
-#  <h2 align="center">python library for Data representing </h2>
+#  <h1 align="center">python library for Data representing </h1>
 
 In this repo. I'm showing some library that are represinting the data in GUI window or in a web page for analyzing and checking the Data, 
 the [data](business.csv) I used here is just for testing but you can use it as you like 😉.
