@@ -27,7 +27,7 @@ the [data](business.csv) I used here is just for testing but you can use it as y
 
 ![Alt text](IMAGE/code-dtale.png)
   
-  - How it works : 
+    - How it works : 
 
 ![Alt text](IMAGE/dtale.png)
 
@@ -51,11 +51,11 @@ the [data](business.csv) I used here is just for testing but you can use it as y
 
 - How to use it ?
 
-  - code : 
+    - code : 
 
 ![Alt text](IMAGE/code-pandas_profiling.png)
   
-  - How it's Works:
+    - How it's Works:
 
 ![Alt text](<IMAGE/pandas proffiling.png>)
 
@@ -77,11 +77,11 @@ the [data](business.csv) I used here is just for testing but you can use it as y
 
  - How to use it ?
 
-  - code: 
+   - code: 
 
 ![Alt text](IMAGE/code-sweetviz.png)
 
-  - How it works :
+   - How it works :
 
 ![Alt text](IMAGE/sweetviz.png)
 
