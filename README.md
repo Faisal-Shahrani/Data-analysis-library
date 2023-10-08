@@ -23,11 +23,11 @@ the [data](business.csv) I used here is just for testing but you can use it as y
 
  - How to use it ? 
       
-    - Code : 
+   - Code : 
 
 ![Alt text](IMAGE/code-dtale.png)
   
-    - How it works : 
+   - How it works : 
 
 ![Alt text](IMAGE/dtale.png)
 
