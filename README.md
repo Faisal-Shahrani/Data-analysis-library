@@ -5,7 +5,7 @@ In this repo. I'm showing some library that are represinting the data in GUI win
 the [data](business.csv) I used here is just for testing but you can use it as you like 😉.
 
 
-### Dtale 
+##     <h1 align='center'>  Dtale  </h1> 
 
  - how to install the first library 🥇
 
@@ -22,8 +22,8 @@ the [data](business.csv) I used here is just for testing but you can use it as y
 
 
  - How to use it ? 
-
-  - Code : 
+      
+    - Code : 
 
 ![Alt text](IMAGE/code-dtale.png)
   
@@ -33,7 +33,7 @@ the [data](business.csv) I used here is just for testing but you can use it as y
 
 
 
-### pandas profiling 
+##       <h1 align='center'> pandas profiling  </h1>
 
 - how to install the second library 🥈
 
@@ -60,7 +60,7 @@ the [data](business.csv) I used here is just for testing but you can use it as y
 ![Alt text](<IMAGE/pandas proffiling.png>)
 
 
-### SweetViz
+##   <h1 align='center'> SweetViz </h1>
 
   - how to install the third library 🥉
 
